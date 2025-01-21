@@ -4,6 +4,7 @@ About
 
 This repository contains a collection of data analysis labs aimed at teaching fundamental concepts in data exploration, visualization, and interpretation. Each lab leverages real-world data sets to uncover patterns, relationships, and distributions. Through hands-on exercises, users gain experience with cleaning, analyzing, and presenting data using Python and pandas.
 
+
 Labs Overview
 
 1. The Distribution of First Digits
@@ -46,6 +47,7 @@ Visualizing joint, marginal, and conditional distributions.
 
 Exploring Titanic and restaurant tipping data sets to uncover patterns.
 
+
 Skills Covered
 
 Data Cleaning: Handling missing values, converting data types, and preparing data for analysis.
@@ -55,6 +57,7 @@ Exploratory Data Analysis (EDA): Using descriptive statistics and visualizations
 Data Visualization: Creating bar charts, histograms, box plots, and heat maps using pandas, matplotlib, and seaborn.
 
 Statistical Concepts: Working with distributions (joint, marginal, conditional) and deriving meaningful insights.
+
 
 Getting Started
 
@@ -77,3 +80,4 @@ pip install pandas matplotlib seaborn
 
 Run the Labs:
 Open each .ipynb file in Jupyter Notebook or an equivalent environment to work through the labs.
+
