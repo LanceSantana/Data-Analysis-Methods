@@ -32,7 +32,7 @@ This repository contains a collection of data analysis labs aimed at teaching fu
   - Investigating expenditure trends by age cohorts.  
   - Exploring discrepancies between overall averages and age-cohort-specific data.
 
-### 3. Relationships between Variables
+### 3A. Relationships between Variables
 - **Objective:**  
   Focuses on understanding relationships between categorical and quantitative variables.
 - **Key Activities:**  
