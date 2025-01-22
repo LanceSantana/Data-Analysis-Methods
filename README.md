@@ -16,7 +16,7 @@ This repository contains a collection of data analysis labs aimed at teaching fu
   - Visualizing distributions of numerical data.  
   - Drawing insights from comparisons against initial predictions.
 
-### 2. Shark Tank Investment Analysis
+### 2A. Shark Tank Investment Analysis
 - **Objective:**  
   Explores data on investments made in the reality TV show "Shark Tank."
 - **Key Activities:**  
@@ -24,7 +24,7 @@ This repository contains a collection of data analysis labs aimed at teaching fu
   - Identifying the most valuable companies and highest investments.  
   - Investigating funding trends by industry and shark preferences.
 
-### 3. Evidence of Discrimination in California DDS Expenditures
+### 2B. Evidence of Discrimination in California DDS Expenditures
 - **Objective:**  
   Examines expenditure data to investigate potential discrimination in fund allocation by ethnicity.
 - **Key Activities:**  
@@ -32,7 +32,7 @@ This repository contains a collection of data analysis labs aimed at teaching fu
   - Investigating expenditure trends by age cohorts.  
   - Exploring discrepancies between overall averages and age-cohort-specific data.
 
-### 4. Relationships between Variables
+### 3. Relationships between Variables
 - **Objective:**  
   Focuses on understanding relationships between categorical and quantitative variables.
 - **Key Activities:**  
