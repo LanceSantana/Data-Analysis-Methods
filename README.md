@@ -55,11 +55,3 @@ This repository contains a collection of data analysis labs aimed at teaching fu
 
 - **Statistical Concepts:**  
   Working with distributions (joint, marginal, conditional) and deriving meaningful insights.
-
----
-
-## Getting Started
-
-### Clone the Repository:
-```bash
-git clone https://github.com/yourusername/Data-Analysis-Methods.git
